@@ -1,3 +1,11 @@
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(80, 139, 218));
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #gamecontainer{
     text-align: center;
     margin-top: 100px;
@@ -7,7 +15,7 @@
     border: 3px solid;
 }
 
-#score{
+#scoretext{
     font-size: 60px;
     font-family: Arial, Helvetica, sans-serif;
 }
